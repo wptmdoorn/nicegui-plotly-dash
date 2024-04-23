@@ -1,0 +1,6 @@
+dash==2.16.1
+fastapi==0.110.2
+Flask==2.2.3
+nicegui==1.4.22
+pandas==2.2.2
+plotly==5.21.0
